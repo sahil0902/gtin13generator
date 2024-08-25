@@ -1,0 +1,56 @@
+{
+  "name": "gtin13generator",
+  "version": "1.0.1",
+   "description": "A robust utility for automatically generating and validating GTIN-13 numbers, ideal for e-commerce platforms, inventory management, and integration with Google Shopping.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil0902/gtin13generator.git"
+  },
+  "keywords": [
+    "gtin",
+    "gtin13",
+    "gtin-13",
+    "upc",
+    "ean",
+    "barcode",
+    "product-code",
+    "identifier",
+    "generator",
+    "google-products",
+    "ecommerce",
+    "retail",
+    "product-listing",
+    "npm-package",
+    "javascript",
+    "gtin",
+    "gtin13",
+    "gtin-13",
+    "upc",
+    "ean",
+    "barcode",
+    "product-code",
+    "identifier",
+    "generator",
+    "google-products",
+    "ecommerce",
+    "retail",
+    "product-listing",
+    "npm-package",
+    "javascript"
+  ],
+  "author": "Muhammad Sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil0902/gtin13generator/issues"
+  },
+  "homepage": "https://github.com/sahil0902/gtin13generator#readme",
+  
+  "dependencies": {
+    "generate-unique-id": "^2.0.3",
+    "gtin": "^1.0.2"
+  }
+}
